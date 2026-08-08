@@ -6,9 +6,9 @@ date: 2026-08-07
 
 # Premier League Non-Penalty xG Performance? 
 
-### What are you looking at? 
+### What you are looking at
 
-This plot is a Comet Chart of 17 premier league teams showcasing the changes in npxG per 90 over the course of 2 seasons. 
+This plot is a comet chart of 17 premier league teams showcasing the changes in npxG per 90 over the course of 2 seasons. 
 
 npxG stands for non-penalty expected goals. expected goals is an advanced statistical metric that uses a million shots from historical data to predict the likelihood a shot results in a goal. The per 90 stat shows much xG that team had in 90 minutes of football. 
 
@@ -22,14 +22,14 @@ created by Harsh Krishna
 ![Outlining the x y axis on graph paper](/assets/images/2026-08-07-draw-it-like-playfair/part1.png)
 Starting out with 1 A4 graphing paper
 
-![adding data points onto x y plain](/assets/images/2026-08-07-draw-it-like-playfair/part2.png)dad
+![adding data points onto x y plain](/assets/images/2026-08-07-draw-it-like-playfair/part2.png)
 Adding all the teams close to their data points
 
 ![adding bottom left quadrant comets](/assets/images/2026-08-07-draw-it-like-playfair/part3.png)
 Adding some comets on the bottom left
 
 ![adding top right quadrant commts](/assets/images/2026-08-07-draw-it-like-playfair/part4.png)
-Finish off by adding greens and blues on the top right quadrant
+Finishing off by adding greens and blues on the top right quadrant
 
 ### The finished product
 
@@ -40,25 +40,25 @@ The final visualization at the end.
 
 ### Why i chose plot? 
 
-The plot has two variables npxG and npxGA with comet representing the shift in values over the two seasons which shows the trajectory of each teams xG values. 
+The plot has two variables npxG and npxGA with a comet representing the shift in values over the two seasons which shows the trajectory of each teams xG values. 
 
 ## Interpretation
 
-At first glance the first thing jumps at are the trailing comets which represent teams with the biggest changes. Its also shows a the comets in different colors denoting quadrants. the blues are high performing teams with higher xG values and the orange being teams that sit towards the bottom of the table in terms of xG.
+At first glance the first thing jumps at are the trailing comets which represent teams with the biggest changes. Its also shows a the comets in different colors denoting quadrants. The blues are high performing teams with higher xG values and the orange being teams that sit towards the bottom of the table in terms of xG.
 
 ## Gestalt Principles
 
-The plots comets impart **Continuity**. The eye can easily follow the trail and tell that this ball was here previously. 
+The plots comets impart **Continuity**. The eye can easily follow the trail showing the previous xG data point from the previous season. 
 
 **Common fate** is also easily inferred. For example, Liverpool and Manchester city clearly look like teams that are improving their xG performance by how long their comets look and the trajectory their are both heading in.
 
-**Similarity** is also another quality this visualization shows. blues are high xG. orange/red hover around bottom of the table while the gold/yellows are solid performers clustered in the middle at around 1 to 1.5 xG. 
+**Similarity** is also another quality this visualization shows. Blues are high xG. Orange/red hover around bottom of the table while the gold/yellows are solid performers clustered in the middle at around 1 to 1.5 xG. 
 
 **Proximity**. The four colour tiers are not just similar in colour but they're also clustered spatially. The orange group sits at bottom-left as a block. The blue sits alone top-right. So colour and position are reinforcing the same grouping here giving doubling coding.
 
 ### What I would change
 
-I made a change immediately as the first draft i drew was not clear. the gold/yellows were not distinguishable on the white piece of paper and only really worked because the plot has a black background. I changed them to green. i also changed the red to pink to further distinguish them from the oranges as those colors were too close together.
+I made a change immediately as the first draft i drew was not clear. The gold/yellows were not distinguishable on the white piece of paper and only really worked because the plot has a black background. I changed them to green. I also changed the red to pink to further distinguish them from the oranges as those colors were too close together.
 
 Those are my critiques which are somewhat dependent on what medium the plot is made on. 
 

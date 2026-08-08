@@ -5,7 +5,7 @@ title: Home
 
 # Malou Agok Malou
 
-I'm a computer science student who is persuing a Bachelor of Computer Science at RMIT University.
+I'm a computer science student who is pursuing a Bachelor of Computer Science at RMIT University.
 
 This site is my outlet to showcase my learning as i progress through my studies. 
 
