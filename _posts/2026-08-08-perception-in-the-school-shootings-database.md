@@ -25,4 +25,5 @@ The visualisation is actually interactive so viewers can look at every single cl
 
 ## References
 Baglin, J. (2026, March 26). *Data visualisation: From theory to practice*. https://data-visualisation.stem.melbourne/
+
 Cox, J. W., Rich, S., Trevor, L., Muyskens, J., & Ulmanu, M. (n.d.). *There have been 435 school shootings since Columbine*. The Washington Post. Retrieved August 8, 2026, from https://www.washingtonpost.com/education/interactive/school-shootings-database/
