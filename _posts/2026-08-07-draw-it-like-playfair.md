@@ -4,7 +4,7 @@ title: "Draw It Like Playfair, Minard and Nightingale"
 date: 2026-08-07
 ---
 
-# Premier League Non-Penalty xG Performance? 
+Malou Agok Malou
 
 ### What you are looking at
 
@@ -38,7 +38,7 @@ The final visualization at the end.
 
 ## Reflections
 
-### Why i chose plot? 
+### Why I chose plot? 
 
 The plot has two variables npxG and npxGA with a comet representing the shift in values over the two seasons which shows the trajectory of each teams xG values. 
 
