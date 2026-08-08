@@ -20,8 +20,7 @@ One quantitative variable shown is the number of students exposed to gun violenc
 
 ### FYI it's an interactive visualisation
 
-The visualisation is actually live and interactive and title updates anytime a shooting happens. 
-You can look at every single cluster of dots and find out what school, the date of the shooting and number of children in that school.
+The visualisation is actually interactive so viewers can look at every single cluster of dots and find out what school, the date of the shooting and number of children in that school.
 
 
 ## References
